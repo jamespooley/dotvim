@@ -2,6 +2,8 @@
 
 ### Inital Setup
 
+Simply follow Vim hero Drew Neil's [instructions](http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/):
+
 ```bash
 git clone http://github.com/jamespooley/dotvim.git ~/.vim
 ln -s ~/.vim/vimrc ~/.vimrc
