@@ -1,0 +1,15 @@
+[submodule "pack/bundle/start/delimitMate"]
+	path = pack/bundle/start/delimitMate
+	url = https://github.com/Raimondi/delimitMate.git
+[submodule "pack/bundle/start/vim-slime"]
+	path = pack/bundle/start/vim-slime
+	url = https://github.com/jpalardy/vim-slime.git
+[submodule "pack/bundle/start/Nvim-R"]
+	path = pack/bundle/start/Nvim-R
+	url = https://github.com/jalvesaq/Nvim-R
+[submodule "pack/bundle/start/lightline.vim"]
+	path = pack/bundle/start/lightline.vim
+	url = https://github.com/itchyny/lightline.vim.git
+[submodule "pack/bundle/start/gruvbox"]
+	path = pack/bundle/start/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
