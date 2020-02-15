@@ -14,8 +14,8 @@
 	path = pack/bundle/start/gruvbox
 	url = https://github.com/morhetz/gruvbox.git
 [submodule "vim-commentary"]
-	path = vim-commentary
+	path = pack/bundle/start/vim-commentary
 	url = https://github.com/tpope/vim-commentary.git
 [submodule "vim-surround"]
-	path = vim-surround
+	path = pack/bundle/start/vim-surround
 	url = https://github.com/tpope/vim-surround.git
