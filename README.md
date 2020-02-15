@@ -16,6 +16,12 @@ git submodule update
 
 ### Further Reading
 
+In addition to the must-own (but not freely available)
+[Practical Vim (2nd Edition)](https://pragprog.com/book/dnvim2/practical-vim-second-edition) and
+[Modern Vim](https://pragprog.com/book/modvim/modern-vim)
+books by Drew Neil, the following are free Vim resources that I've found helpful
+when crafting my text editing environment.
+
 * [Learn Vim for the First Time: A Tutorial and Primer](https://danielmiessler.com/study/vim/)
 * [Vim Config Update: 2019 Edition](https://danielmiessler.com/blog/vim-configuration-update-2019-version/)
 * [Vim: So Long Pathogen, Hello Native Package Loading](https://shapeshed.com/vim-packages/)
