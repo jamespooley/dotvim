@@ -1,16 +1,15 @@
+filetype plugin indent on
+syntax on
+
 inoremap jk <ESC>
 
 set ignorecase
 set smartcase
 
-" setlocal foldmethod=indent
+set backspace=indent,eol,start
+set wildignore=*.swp,*.bak,*pyc
 
 let g:pymode_python = 'python3'
-
-filetype plugin indent on
-syntax on
-
-set t_Co=256
 
 set tabstop=4
 set shiftwidth=4
@@ -24,12 +23,14 @@ let mapleader = "<Space>"
 set number
 set cursorline
 
+
+" Colorscheme ----------------------------------------------
+
+set t_Co=256
+
 set background=dark
 let g:gruvbox_contrast_dark='dark'
 colorscheme gruvbox
-
-set backspace=indent,eol,start
-set wildignore=*.swp,*.bak,*pyc
 
 
 " Whitespace -----------------------------------------------
@@ -45,8 +46,10 @@ endfun
 
 command! TrimWhitespace call TrimWhitespace()
 
-
 set laststatus=2
+
+
+" Leader Mappings ------------------------------------------
 
 let mapleader = "\<Space>"
 
@@ -65,16 +68,37 @@ au BufRead *.html set filetype=htmlm4
 
 " Vim-Slime ------------------------------------------------
 
-" let g:slime_target = "tmux"
-" let g:slime_default_config = {"socket_name": split($TMUX, ",")[0], "target_pane": ":.2"}
-" let g:slime_python_ipython = 1
-"
-"
+let g:slime_target = "tmux"
+let g:slime_python_ipython = 1
+
+nmap <c-c><c-l> <Plug>SlimeLineSend
+
+let g:slime_no_mappings = 1
+
+xmap <Leader>s <Plug>SlimeRegionSend
+nmap <Leader>s <Plug>SlimeParagraphSend
+nmap <c-c>v <Plug>SlimeConfig
+
+
+" # R ------------------------------------------------------
+
 let R_assign = 2
 
 imap <C-k> %>%<CR>
 
 
+" Folding --------------------------------------------------
+
+
 set foldmethod=indent
 set foldlevel=99
 nnoremap <space> za
+
+
+" Easy Access to .vimrc File and Apply on Write ------------
+
+if has("autocmd")
+  autocmd bufwritepost .vimrc source $MYVIMRC
+endif
+
+nmap <Leader>v :tabedit $MYVIMRC<CR>
