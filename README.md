@@ -1,5 +1,7 @@
 # dotvim
 
+I've yet to make the jump to [Neovim](https://neovim.io/), so this is still Vim 8-centric for the time being.
+
 ### Inital Setup
 
 Simply follow Vim hero Drew Neil's [instructions](http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/):
