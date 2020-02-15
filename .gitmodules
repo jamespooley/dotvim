@@ -16,3 +16,6 @@
 [submodule "vim-commentary"]
 	path = vim-commentary
 	url = https://github.com/tpope/vim-commentary.git
+[submodule "vim-surround"]
+	path = vim-surround
+	url = https://github.com/tpope/vim-surround.git
