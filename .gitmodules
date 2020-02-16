@@ -28,3 +28,6 @@
 [submodule "pack/bundle/start/vim-fugitive"]
 	path = pack/bundle/start/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
+[submodule "pack/bundle/start/vim-grep"]
+	path = pack/bundle/start/vim-grep
+	url = https://github.com/itchyny/vim-grep.git
