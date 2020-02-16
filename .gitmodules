@@ -22,3 +22,6 @@
 [submodule "pack/bundle/start/Dockerfile.vim"]
 	path = pack/bundle/start/Dockerfile.vim
 	url = https://github.com/ekalinin/Dockerfile.vim.git
+[submodule "pack/bundle/start/nerdtree"]
+	path = pack/bundle/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
