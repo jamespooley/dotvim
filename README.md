@@ -46,3 +46,8 @@ when crafting my text editing environment.
 * [Synchronizing Plugins with git Submodules and Pathogen](http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/)
 * [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
 * [Vim and Python: A Match Made in Heaven](https://realpython.com/vim-and-python-a-match-made-in-heaven/)
+
+#### Things I Need to Explore
+
+* [Vim Chorded Key Mappings (vim-arpeggio)](https://www.youtube.com/watch?v=b9c30ZovKIo)
+* [Vim Python IDE](https://github.com/jarolrod/vim-python-ide)
