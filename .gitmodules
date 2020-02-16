@@ -31,3 +31,6 @@
 [submodule "pack/bundle/start/vim-grep"]
 	path = pack/bundle/start/vim-grep
 	url = https://github.com/itchyny/vim-grep.git
+[submodule "pack/bundle/start/vim-signify"]
+	path = pack/bundle/start/vim-signify
+	url = https://github.com/mhinz/vim-signify.git
