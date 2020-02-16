@@ -2,9 +2,11 @@
 
 I've yet to make the jump to [Neovim](https://neovim.io/), so this is still Vim 8-centric for the time being.
 
-### Inital Setup
+### Setup
 
 Simply follow Vim hero Drew Neil's [instructions](http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/):
+
+#### Installing Environment on a New Machine
 
 ```bash
 git clone http://github.com/jamespooley/dotvim.git ~/.vim
@@ -12,6 +14,22 @@ ln -s ~/.vim/vimrc ~/.vimrc
 cd ~/.vim
 git git submodule init
 git submodule update
+```
+
+#### Updating Bundled Plugin(s)
+
+To upgrade a single plugin bundle:
+
+```bash
+cd ~/.vim/pack/bundle/start/delimitMate
+git pull origin master
+```
+
+To upgrade all bundled plugins:
+
+```bash
+cd ~/.vim/pack/bundle/start
+git submodule foreach git pull origin master
 ```
 
 ### Further Reading
