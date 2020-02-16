@@ -102,3 +102,8 @@ if has("autocmd")
 endif
 
 nmap <Leader>v :tabedit $MYVIMRC<CR>
+
+
+" NERDTree -------------------------------------------------
+
+map <Leader>n :NERDTreeToggle<CR>
