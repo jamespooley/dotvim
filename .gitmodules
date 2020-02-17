@@ -37,3 +37,6 @@
 [submodule "pack/bundle/start/rainbow_csv"]
 	path = pack/bundle/start/rainbow_csv
 	url = https://github.com/mechatroner/rainbow_csv.git
+[submodule "pack/bundle/start/vim-jinja"]
+	path = pack/bundle/start/vim-jinja
+	url = https://github.com/mitsuhiko/vim-jinja.git
