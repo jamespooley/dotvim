@@ -52,3 +52,6 @@
 [submodule "pack/bundle/start/ale"]
 	path = pack/bundle/start/ale
 	url = https://github.com/dense-analysis/ale.git
+[submodule "pack/bundle/start/ncm-R"]
+	path = pack/bundle/start/ncm-R
+	url = https://github.com/gaalcaras/ncm-R.git
