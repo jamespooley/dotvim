@@ -40,3 +40,6 @@
 [submodule "pack/bundle/start/vim-jinja"]
 	path = pack/bundle/start/vim-jinja
 	url = https://github.com/mitsuhiko/vim-jinja.git
+[submodule "pack/bundle/start/vimpyter"]
+	path = pack/bundle/start/vimpyter
+	url = https://github.com/szymonmaszke/vimpyter.git
