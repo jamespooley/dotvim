@@ -51,6 +51,7 @@ when crafting my text editing environment.
 * [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
 * [Vim and Python: A Match Made in Heaven](https://realpython.com/vim-and-python-a-match-made-in-heaven/)
 * [Vimcasts.org](http://vimcasts.org/episodes/)
+* [Turning Vim into an R IDE](https://www.freecodecamp.org/news/turning-vim-into-an-r-ide-cd9602e8c217/)
 
 #### Things I Need to Explore
 
