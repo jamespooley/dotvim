@@ -21,6 +21,8 @@ autocmd FileType r setlocal shiftwidth=2 tabstop=2 softtabstop=2 expandtab
 let mapleader = "<Space>"
 
 set number
+set relativenumber
+
 set cursorline
 
 
