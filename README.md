@@ -2,7 +2,9 @@
 
 > <sup>**Use a single editor well.** The editor should be an extension of your hand; make sure your editor is configurable, extensible, and programmable. ([The Pragmatic Programmer](https://pragprog.com/the-pragmatic-programmer/extracts/tips))</sup>
 
-I've yet to make the jump to [Neovim](https://neovim.io/), so this is still Vim 8-centric for the time being.
+I've yet to make the jump to [Neovim](https://neovim.io/), so this is still Vim 8-centric for the time being.  Similarly, I've yet to move to
+[`minpack`](http://vimcasts.org/episodes/minpac/) as my package manager.
+
 
 ### Setup
 
@@ -48,6 +50,7 @@ when crafting my text editing environment.
 * [Synchronizing Plugins with git Submodules and Pathogen](http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/)
 * [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
 * [Vim and Python: A Match Made in Heaven](https://realpython.com/vim-and-python-a-match-made-in-heaven/)
+* [Vimcasts.org](http://vimcasts.org/episodes/)
 
 #### Things I Need to Explore
 
