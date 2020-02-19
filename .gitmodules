@@ -43,3 +43,6 @@
 [submodule "pack/bundle/start/vimpyter"]
 	path = pack/bundle/start/vimpyter
 	url = https://github.com/szymonmaszke/vimpyter.git
+[submodule "pack/bundle/start/vim-dadbod"]
+	path = pack/bundle/start/vim-dadbod
+	url = https://github.com/tpope/vim-dadbod.git
