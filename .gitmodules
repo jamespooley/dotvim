@@ -49,3 +49,6 @@
 [submodule "pack/bundle/start/tabular"]
 	path = pack/bundle/start/tabular
 	url = https://github.com/godlygeek/tabular.git
+[submodule "pack/bundle/start/ale"]
+	path = pack/bundle/start/ale
+	url = https://github.com/dense-analysis/ale.git
