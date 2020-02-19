@@ -53,6 +53,7 @@ when crafting my text editing environment.
 * [Vimcasts.org](http://vimcasts.org/episodes/)
 * [Turning Vim into an R IDE](https://www.freecodecamp.org/news/turning-vim-into-an-r-ide-cd9602e8c217/)
 * [Seven Habits of Effective Text Editing](https://www.moolenaar.net/habits.html)
+* [Understanding Vim's Jump List](https://kadekillary.work/post/vim-jumplist/)
 
 #### Things I Need to Explore
 
