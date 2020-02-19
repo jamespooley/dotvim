@@ -46,3 +46,6 @@
 [submodule "pack/bundle/start/vim-dadbod"]
 	path = pack/bundle/start/vim-dadbod
 	url = https://github.com/tpope/vim-dadbod.git
+[submodule "pack/bundle/start/tabular"]
+	path = pack/bundle/start/tabular
+	url = https://github.com/godlygeek/tabular.git
