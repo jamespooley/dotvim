@@ -16,7 +16,7 @@ Simply follow Vim hero Drew Neil's [instructions](http://vimcasts.org/episodes/s
 git clone http://github.com/jamespooley/dotvim.git ~/.vim
 ln -s ~/.vim/vimrc ~/.vimrc
 cd ~/.vim
-git git submodule init
+git submodule init
 git submodule update
 ```
 
