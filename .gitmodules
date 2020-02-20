@@ -58,3 +58,6 @@
 [submodule "pack/bundle/start/ultisnips"]
 	path = pack/bundle/start/ultisnips
 	url = https://github.com/SirVer/ultisnips.git
+[submodule "pack/bundle/start/notedown"]
+	path = pack/bundle/start/notedown
+	url = https://github.com/aaren/notedown.git
