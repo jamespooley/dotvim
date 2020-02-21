@@ -61,3 +61,6 @@
 [submodule "pack/bundle/start/notedown"]
 	path = pack/bundle/start/notedown
 	url = https://github.com/aaren/notedown.git
+[submodule "pack/bundle/start/vim-snippets"]
+	path = pack/bundle/start/vim-snippets
+	url = https://github.com/honza/vim-snippets
