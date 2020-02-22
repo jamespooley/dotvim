@@ -13,11 +13,27 @@ Simply follow Vim hero Drew Neil's [instructions](http://vimcasts.org/episodes/s
 #### Installing Environment on a New Machine
 
 ```bash
-git clone http://github.com/jamespooley/dotvim.git ~/.vim
-ln -s ~/.vim/vimrc ~/.vimrc
-cd ~/.vim
-git submodule init
-git submodule update
+$ git clone http://github.com/jamespooley/dotvim.git ~/.vim
+$ ln -s ~/.vim/vimrc ~/.vimrc
+$ cd ~/.vim
+$ git submodule init
+$ git submodule update
+```
+
+To use this config with Neovim:
+
+```bash
+$ sudo apt-get install neovim
+$ sudo apt-get install python3-neovim
+$ vim ~/.config/nvim/init.vim
+```
+
+Add these linkes to Neovim's `init.vim` file:
+
+```bash
+set runtimepath^=~/.vim runtimepath+=~/.vim/after
+let &packpath=&runtimepath
+source ~/.vimrc
 ```
 
 #### Updating Bundled Plugin(s)
@@ -35,6 +51,8 @@ To upgrade all bundled plugins:
 cd ~/.vim/pack/bundle/start
 git submodule foreach git pull origin master
 ```
+
+
 
 ### Further Reading
 
