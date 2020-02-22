@@ -55,6 +55,7 @@ when crafting my text editing environment.
 * [Seven Habits of Effective Text Editing](https://www.moolenaar.net/habits.html)
 * [Understanding Vim's Jump List](https://kadekillary.work/post/vim-jumplist/)
 * [Vim's Absolute, Relative, and Hybrid Line Numbers](https://jeffkreeftmeijer.com/vim-number/)
+* [git Submodule Tutorial](https://git.wiki.kernel.org/index.php/GitSubmoduleTutorial)
 
 #### Things I Need to Explore
 
