@@ -40,9 +40,6 @@
 [submodule "pack/bundle/start/vim-jinja"]
 	path = pack/bundle/start/vim-jinja
 	url = https://github.com/mitsuhiko/vim-jinja.git
-[submodule "pack/bundle/start/vimpyter"]
-	path = pack/bundle/start/vimpyter
-	url = https://github.com/szymonmaszke/vimpyter.git
 [submodule "pack/bundle/start/vim-dadbod"]
 	path = pack/bundle/start/vim-dadbod
 	url = https://github.com/tpope/vim-dadbod.git
@@ -58,9 +55,6 @@
 [submodule "pack/bundle/start/ultisnips"]
 	path = pack/bundle/start/ultisnips
 	url = https://github.com/SirVer/ultisnips.git
-[submodule "pack/bundle/start/notedown"]
-	path = pack/bundle/start/notedown
-	url = https://github.com/aaren/notedown.git
 [submodule "pack/bundle/start/vim-snippets"]
 	path = pack/bundle/start/vim-snippets
 	url = https://github.com/honza/vim-snippets
