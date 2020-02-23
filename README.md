@@ -80,3 +80,4 @@ when crafting my text editing environment.
 * [Vim Chorded Key Mappings (vim-arpeggio)](https://www.youtube.com/watch?v=b9c30ZovKIo)
 * [Vim Python IDE](https://github.com/jarolrod/vim-python-ide)
 * [`vim-cellmode`](https://github.com/julienr/vim-cellmode)
+* [Idiomatic `vimrc`](https://github.com/romainl/idiomatic-vimrc)
