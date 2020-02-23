@@ -28,7 +28,7 @@ $ sudo apt-get install python3-neovim
 $ vim ~/.config/nvim/init.vim
 ```
 
-Add these linkes to Neovim's `init.vim` file:
+Add these links to Neovim's `init.vim` file:
 
 ```bash
 set runtimepath^=~/.vim runtimepath+=~/.vim/after
