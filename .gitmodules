@@ -61,3 +61,6 @@
 [submodule "pack/bundle/start/jedi-vim"]
 	path = pack/bundle/start/jedi-vim
 	url = https://github.com/davidhalter/jedi-vim.git
+[submodule "pack/bundle/start/vim-emoji"]
+	path = pack/bundle/start/vim-emoji
+	url = https://github.com/junegunn/vim-emoji.git
