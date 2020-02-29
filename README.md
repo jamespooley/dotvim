@@ -14,9 +14,9 @@
 | |              | || |              | || |              | || |              | |
 | '--------------' || '--------------' || '--------------' || '--------------' |
  '----------------'  '----------------'  '----------------'  '----------------' 
-
-
 ```
+
+<sup>ASCII art generted [here](http://patorjk.com/software/taag)</sup>
 
 I've yet to make the jump to [Neovim](https://neovim.io/), so this is still Vim 8-centric for the time being.  Similarly, I've yet to move to
 [`minpac`](http://vimcasts.org/episodes/minpac/) as my package manager.
