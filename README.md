@@ -2,6 +2,13 @@
 
 > <sup>**Use a single editor well.** The editor should be an extension of your hand; make sure your editor is configurable, extensible, and programmable. ([The Pragmatic Programmer](https://pragprog.com/the-pragmatic-programmer/extracts/tips))</sup>
 
+|\  \    /  /||\  \ |\   _ \  _   \    
+\ \  \  /  / /\ \  \\ \  \\\__\ \  \   
+ \ \  \/  / /  \ \  \\ \  \\|__| \  \  
+  \ \    / /    \ \  \\ \  \    \ \  \ 
+   \ \__/ /      \ \__\\ \__\    \ \__\
+    \|__|/        \|__| \|__|     \|__|
+
 I've yet to make the jump to [Neovim](https://neovim.io/), so this is still Vim 8-centric for the time being.  Similarly, I've yet to move to
 [`minpac`](http://vimcasts.org/episodes/minpac/) as my package manager.
 
