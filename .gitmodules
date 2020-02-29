@@ -64,3 +64,6 @@
 [submodule "pack/bundle/start/vim-emoji"]
 	path = pack/bundle/start/vim-emoji
 	url = https://github.com/junegunn/vim-emoji.git
+[submodule "pack/bundle/start/vim-exchange"]
+	path = pack/bundle/start/vim-exchange
+	url = https://github.com/tommcdo/vim-exchange
