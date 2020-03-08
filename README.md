@@ -97,3 +97,4 @@ when crafting my text editing environment.
 * [Vim Python IDE](https://github.com/jarolrod/vim-python-ide)
 * [`vim-cellmode`](https://github.com/julienr/vim-cellmode)
 * [Idiomatic `vimrc`](https://github.com/romainl/idiomatic-vimrc)
+* [How Can I Fix "Missing" Syntax Highlighting for Python Keywords such as `self`?](https://vi.stackexchange.com/questions/8772/how-can-i-fix-missing-syntax-highlighting-for-python-keywords-such-as-self)
