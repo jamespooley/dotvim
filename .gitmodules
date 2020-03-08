@@ -67,3 +67,6 @@
 [submodule "pack/bundle/start/vim-exchange"]
 	path = pack/bundle/start/vim-exchange
 	url = https://github.com/tommcdo/vim-exchange
+[submodule "pack/bundle/start/csv.vim"]
+	path = pack/bundle/start/csv.vim
+	url = https://github.com/chrisbra/csv.vim.git
