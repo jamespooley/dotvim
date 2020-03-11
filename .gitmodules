@@ -70,3 +70,6 @@
 [submodule "pack/bundle/start/csv.vim"]
 	path = pack/bundle/start/csv.vim
 	url = https://github.com/chrisbra/csv.vim.git
+[submodule "pack/bundle/start/vim-obsession"]
+	path = pack/bundle/start/vim-obsession
+	url = https://github.com/tpope/vim-obsession.git
