@@ -90,6 +90,10 @@ when crafting my text editing environment.
 * [Understanding Vim's Jump List](https://kadekillary.work/post/vim-jumplist/)
 * [Vim's Absolute, Relative, and Hybrid Line Numbers](https://jeffkreeftmeijer.com/vim-number/)
 * [git Submodule Tutorial](https://git.wiki.kernel.org/index.php/GitSubmoduleTutorial)
+* [Simple Vim Session Management: Part 1](https://dockyard.com/blog/2018/06/01/simple-vim-session-management-part-1)
+* [Simple Vim Session Management: Part 2](https://dockyard.com/blog/2019/06/25/simple-vim-session-management-part-2)
+* [Cool Vim Feature: Sessions!](https://jvns.ca/blog/2017/09/10/vim-sessions/)
+* [Sessions: The Vim Feature No One Talks About!](https://hackernoon.com/sessions-the-vim-feature-no-one-talks-about-1c9cfa4d52d7)
 
 #### Things I Need to Explore
 
