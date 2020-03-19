@@ -102,3 +102,4 @@ when crafting my text editing environment.
 * [`vim-cellmode`](https://github.com/julienr/vim-cellmode)
 * [Idiomatic `vimrc`](https://github.com/romainl/idiomatic-vimrc)
 * [How Can I Fix "Missing" Syntax Highlighting for Python Keywords such as `self`?](https://vi.stackexchange.com/questions/8772/how-can-i-fix-missing-syntax-highlighting-for-python-keywords-such-as-self)
+* [A Complete Guide to Setting Up Neovim for Python Development on Linux](https://jdhao.github.io/2018/12/24/centos_nvim_install_use_guide_en/)
