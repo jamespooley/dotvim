@@ -48,6 +48,15 @@ vnoremap > >gv
 
 au BufRead *.html set filetype=htmlm4
 
+" R --------------------------------------------------------
+
+autocmd FileType R setlocal tabstop=2 shiftwidth=2 softtabstop=2 expandtab
+
+let R_assign = 2
+
+imap <C-k> %>%<CR>
+
+
 " Vim-Slime ------------------------------------------------
 
 let g:slime_target = "tmux"
