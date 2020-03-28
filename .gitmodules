@@ -79,3 +79,6 @@
 [submodule "pack/bundle/start/pytest.vim"]
 	path = pack/bundle/start/pytest.vim
 	url = https://github.com/alfredodeza/pytest.vim.git
+[submodule "pack/bundle/start/stan-vim"]
+	path = pack/bundle/start/stan-vim
+	url = https://github.com/eigenfoo/stan-vim.git
