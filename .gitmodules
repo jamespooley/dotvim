@@ -82,3 +82,6 @@
 [submodule "pack/bundle/start/stan-vim"]
 	path = pack/bundle/start/stan-vim
 	url = https://github.com/eigenfoo/stan-vim.git
+[submodule "pack/bundle/start/vim-tmux-navigator"]
+	path = pack/bundle/start/vim-tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator.git
