@@ -91,3 +91,8 @@ map <Leader>n :NERDTreeToggle<CR>
 " Snippets -------------------------------------------------
 
 let g:UltiSnipsSnippetsDir = '~/.vim/pack/bundle/start/vim-snippets/UltiSnips'
+
+
+" Highlight tabs, non-breaking whitespace, and trailing whitespace
+set listchars=tab:>~,nbsp:_,trail:.
+set list
