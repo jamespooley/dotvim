@@ -85,3 +85,6 @@
 [submodule "pack/bundle/start/vim-tmux-navigator"]
 	path = pack/bundle/start/vim-tmux-navigator
 	url = https://github.com/christoomey/vim-tmux-navigator.git
+[submodule "pack/bundle/start/vim-devicons"]
+	path = pack/bundle/start/vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons.git
