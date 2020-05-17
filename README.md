@@ -91,3 +91,4 @@ when crafting my text editing environment.
 * [A Complete Guide to Setting Up Neovim for Python Development on Linux](https://jdhao.github.io/2018/12/24/centos_nvim_install_use_guide_en/)
 * [256 Colors in Vim](https://vim.fandom.com/wiki/256_colors_in_vim)
 * [Consistent Terminal Colors with 16-ANSI-Color Vim Themes](https://jeffkreeftmeijer.com/vim-16-color/)
+* [https://www.reddit.com/r/vim/](https://www.reddit.com/r/vim/)
