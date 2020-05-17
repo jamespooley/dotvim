@@ -88,3 +88,6 @@
 [submodule "pack/bundle/start/vim-devicons"]
 	path = pack/bundle/start/vim-devicons
 	url = https://github.com/ryanoasis/vim-devicons.git
+[submodule "pack/bundle/start/vim-signature"]
+	path = pack/bundle/start/vim-signature
+	url = https://github.com/kshenoy/vim-signature.git
