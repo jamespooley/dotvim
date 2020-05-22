@@ -91,3 +91,6 @@
 [submodule "pack/bundle/start/vim-signature"]
 	path = pack/bundle/start/vim-signature
 	url = https://github.com/kshenoy/vim-signature.git
+[submodule "pack/bundle/start/vim-pyenv"]
+	path = pack/bundle/start/vim-pyenv
+	url = https://github.com/lambdalisue/vim-pyenv.git
