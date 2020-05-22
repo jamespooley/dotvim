@@ -93,3 +93,4 @@ when crafting my text editing environment.
 * [Consistent Terminal Colors with 16-ANSI-Color Vim Themes](https://jeffkreeftmeijer.com/vim-16-color/)
 * [https://www.reddit.com/r/vim/](https://www.reddit.com/r/vim/)
 * [How to Compile Vim for Use with `pyenv` and `vim-pyenv`](https://rillabs.com/posts/how-to-compile-vim-for-use-with-pyenv-and-vim-pyenv)
+* [Make Vim Detect `pipenv`-Based Python Environment](https://duseev.com/articles/vim-python-pipenv/)
