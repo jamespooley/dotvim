@@ -1,7 +1,8 @@
 # ⌨️ dotvim
 
 > **Use a single editor well.** The editor should be an extension of your
-> hand; make sure your editor is configurable, extensible, and programmable.>
+> hand; make sure your editor is configurable, extensible, and programmable
+>
 > --- [The Pragmatic Programmer](https://pragprog.com/the-pragmatic-programmer/extracts/tips)
 
 Vim is damn near the top of my favorite pieces of software ever written. I've yet
