@@ -92,3 +92,4 @@ when crafting my text editing environment.
 * [256 Colors in Vim](https://vim.fandom.com/wiki/256_colors_in_vim)
 * [Consistent Terminal Colors with 16-ANSI-Color Vim Themes](https://jeffkreeftmeijer.com/vim-16-color/)
 * [https://www.reddit.com/r/vim/](https://www.reddit.com/r/vim/)
+* [How to Compile Vim for Use with `pyenv` and `vim-pyenv`](https://rillabs.com/posts/how-to-compile-vim-for-use-with-pyenv-and-vim-pyenv)
