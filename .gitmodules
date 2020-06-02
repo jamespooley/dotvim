@@ -94,3 +94,6 @@
 [submodule "pack/bundle/start/vim-pyenv"]
 	path = pack/bundle/start/vim-pyenv
 	url = https://github.com/lambdalisue/vim-pyenv.git
+[submodule "pack/bundle/start/syntastic"]
+	path = pack/bundle/start/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
