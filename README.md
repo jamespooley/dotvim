@@ -98,3 +98,4 @@ when crafting my text editing environment.
 * [How to Compile Vim for Use with `pyenv` and `vim-pyenv`](https://rillabs.com/posts/how-to-compile-vim-for-use-with-pyenv-and-vim-pyenv)
 * [Make Vim Detect `pipenv`-Based Python Environment](https://duseev.com/articles/vim-python-pipenv/)
 * [My Python Development Setup](https://medium.com/@smoothml/my-python-development-setup-bbbe3715a474)
+* [Comparing Buffers with `vimdiff`](http://vimcasts.org/episodes/comparing-buffers-with-vimdiff/)
