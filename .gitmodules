@@ -52,9 +52,6 @@
 [submodule "pack/bundle/start/ncm-R"]
 	path = pack/bundle/start/ncm-R
 	url = https://github.com/gaalcaras/ncm-R.git
-[submodule "pack/bundle/start/ultisnips"]
-	path = pack/bundle/start/ultisnips
-	url = https://github.com/SirVer/ultisnips.git
 [submodule "pack/bundle/start/vim-snippets"]
 	path = pack/bundle/start/vim-snippets
 	url = https://github.com/honza/vim-snippets
