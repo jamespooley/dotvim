@@ -101,3 +101,5 @@ when crafting my text editing environment.
 * [Comparing Buffers with `vimdiff`](http://vimcasts.org/episodes/comparing-buffers-with-vimdiff/)
 * [Poet-v](https://github.com/petobens/poet-v)
 * [Distraction-Free Writing with Vim](https://www.hamvocke.com/blog/distraction-free-writing/)
+* [Editing Remote Files with Vim](https://dev.to/jovica/editing-remote-files-with-vim-4p9j)
+* [Use `vim-dadbod` to Query Databases](https://habamax.github.io/2019/09/02/use-vim-dadbod-to-query-databases.html)
