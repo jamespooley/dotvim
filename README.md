@@ -103,3 +103,4 @@ when crafting my text editing environment.
 * [Distraction-Free Writing with Vim](https://www.hamvocke.com/blog/distraction-free-writing/)
 * [Editing Remote Files with Vim](https://dev.to/jovica/editing-remote-files-with-vim-4p9j)
 * [Use `vim-dadbod` to Query Databases](https://habamax.github.io/2019/09/02/use-vim-dadbod-to-query-databases.html)
+* [So Long Pathogen, Hello Native Package Loading](https://shapeshed.com/vim-packages/)
