@@ -94,3 +94,6 @@
 [submodule "pack/bundle/start/syntastic"]
 	path = pack/bundle/start/syntastic
 	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "pack/bundle/start/fzf.vim"]
+	path = pack/bundle/start/fzf.vim
+	url = https://github.com/junegunn/fzf.vim.git
