@@ -104,5 +104,5 @@ set list
 " PostgreSQL -----------------------------------------------
 
 let g:sql_type_default = 'pgsql'
-
+let g:pgsql_pl = ['python']
 
