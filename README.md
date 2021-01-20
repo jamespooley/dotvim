@@ -104,3 +104,4 @@ when crafting my text editing environment.
 * [Editing Remote Files with Vim](https://dev.to/jovica/editing-remote-files-with-vim-4p9j)
 * [Use `vim-dadbod` to Query Databases](https://habamax.github.io/2019/09/02/use-vim-dadbod-to-query-databases.html)
 * [So Long Pathogen, Hello Native Package Loading](https://shapeshed.com/vim-packages/)
+* [Vim Sessions](https://medium.com/vim-drops/vim-sessions-50756b2c603a)
