@@ -83,6 +83,7 @@ when crafting my text editing environment.
 * [Simple Vim Session Management: Part 2](https://dockyard.com/blog/2019/06/25/simple-vim-session-management-part-2)
 * [Cool Vim Feature: Sessions!](https://jvns.ca/blog/2017/09/10/vim-sessions/)
 * [Sessions: The Vim Feature No One Talks About!](https://hackernoon.com/sessions-the-vim-feature-no-one-talks-about-1c9cfa4d52d7)
+* [Vim Text Objects: The Definitive Guide](https://blog.carbonfive.com/vim-text-objects-the-definitive-guide/)
 
 #### Things I Need to Explore
 
