@@ -96,13 +96,25 @@ map <Leader>n :NERDTreeToggle<CR>
 
 let g:UltiSnipsSnippetsDir = '~/.vim/pack/bundle/start/vim-snippets/UltiSnips'
 
+" Whitespace -----------------------------------------------
 
 " Highlight tabs, non-breaking whitespace, and trailing whitespace
 set listchars=tab:>~,nbsp:_,trail:.
 set list
 
+
+function StripTrailingWhitespace()
+  if !&binary && &filetype != 'diff'
+    normal mz
+    normal Hmy
+    %s/\s\+$//e
+    normal 'yz<CR>
+    normal `z
+  endif
+endfunction
+
+
 " PostgreSQL -----------------------------------------------
 
 let g:sql_type_default = 'pgsql'
 let g:pgsql_pl = ['python']
-
