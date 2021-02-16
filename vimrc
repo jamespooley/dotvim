@@ -103,17 +103,6 @@ set listchars=tab:>~,nbsp:_,trail:.
 set list
 
 
-function StripTrailingWhitespace()
-  if !&binary && &filetype != 'diff'
-    normal mz
-    normal Hmy
-    %s/\s\+$//e
-    normal 'yz<CR>
-    normal `z
-  endif
-endfunction
-
-
 " PostgreSQL -----------------------------------------------
 
 let g:sql_type_default = 'pgsql'
