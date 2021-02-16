@@ -92,9 +92,6 @@ nmap <Leader>v :tabedit $MYVIMRC<CR>
 
 map <Leader>n :NERDTreeToggle<CR>
 
-" Snippets -------------------------------------------------
-
-let g:UltiSnipsSnippetsDir = '~/.vim/pack/bundle/start/vim-snippets/UltiSnips'
 
 " Whitespace -----------------------------------------------
 
