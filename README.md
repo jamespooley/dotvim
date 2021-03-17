@@ -18,9 +18,9 @@ Simply follow Vim hero Drew Neil's [instructions](http://vimcasts.org/episodes/s
 #### Installing Environment on a New Machine
 
 ```bash
-$ git clone http://github.com/jamespooley/dotvim.git ~/.vim
-$ ln -s ~/.vim/vimrc ~/.vimrc
-$ cd ~/.vim
+$ git clone http://github.com/jamespooley/dotvim.git
+$ cd dotvim
+$ ln -s vimrc ~/.vimrc
 $ git submodule init
 $ git submodule update
 ```
