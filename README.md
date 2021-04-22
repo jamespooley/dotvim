@@ -84,6 +84,7 @@ when crafting my text editing environment.
 * [Cool Vim Feature: Sessions!](https://jvns.ca/blog/2017/09/10/vim-sessions/)
 * [Sessions: The Vim Feature No One Talks About!](https://hackernoon.com/sessions-the-vim-feature-no-one-talks-about-1c9cfa4d52d7)
 * [Vim Text Objects: The Definitive Guide](https://blog.carbonfive.com/vim-text-objects-the-definitive-guide/)
+* [Editing Remote Files in Vim with SSH](https://gist.github.com/sloanlance/f481b7b8ffc0bfa3f46a1c942c7e7b78)
 
 #### Things I Need to Explore
 
