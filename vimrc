@@ -13,6 +13,8 @@ set wildignore=*.swp,*.bak,*pyc
 
 let g:pymode_python = 'python3'
 
+set shell=/bin/bash
+
 set tabstop=4
 set shiftwidth=4
 set softtabstop=4
